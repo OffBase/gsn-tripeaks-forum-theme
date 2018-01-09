@@ -5,16 +5,10 @@
   "color_schemes": {
     "Tripeaks Light": {
       "primary": "50b69c",
-      "secondary": "ffffff",
-      "mainHeader": "https://solitairetripeaks.com/wp-content/uploads/2017/07/tripeaks-header-01.jpg",
-      "headerBackground": "50b69c",
-      "headerPrimary": "ffffff",
-      "footerBackground": "0f262c",
-      "highlight": "c9fff1",
-      "linkColor": "39c5fc",
-      "danger": "ff5722",
-      "success": "4caf50",
-      "badge": "384645"
+       "secondary": "ffffff",
+       "header_background": "50b69c",
+       "header_primary": "ffffff",
+       "highlight": "c9fff1"
     }
   }
 }

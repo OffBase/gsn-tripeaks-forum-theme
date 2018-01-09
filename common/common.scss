@@ -9,6 +9,7 @@
 * Variable are also defined in about.json
 * The following variables are used in this scss file but not in about.json
 * ==================================================================
+* $main-header
 * $wave-tile-pattern
 * ==================================================================
 */
@@ -16,7 +17,7 @@
 @import url('https://fonts.googleapis.com/css?family=Londrina+Solid');
 
 html {
-  background-color: $footerBackground;
+  background-color: #0f262c;
   font-size: 16px;
 }
 
@@ -26,7 +27,7 @@ body {
 }
 
 a, a:link, a:visited, a:focus {
-  color: $linkColor;
+  color: #39c5fc;
   font-weight: 300;
 }
 
@@ -70,21 +71,21 @@ a.badge-wrapper {
 .header-main {
   display: block;
   height: 161px;
-  background: url($mainHeader) top center;
+  background: url($main-header) top center;
   background-size: cover;
 }
 
 .d-header {
-  background-color: $headerBackground;
-  color: $headerPrimary;
+  background-color: $primary;
+  color: $secondary;
 }
 
 .d-header .extra-info-wrapper .topic-link {
-  color: $headerPrimary;
+  color: $secondary;
 }
 
 .d-header-icons .icon {
-  color: $headerPrimary;
+  color: $secondary;
 }
 
 .d-header-icons .btn-flat .d-icon {
@@ -97,7 +98,7 @@ a.badge-wrapper {
 
 .badge-wrapper.bullet span.badge-category,
 .d-header .extra-info-wrapper .badge-wrapper.bullet span.badge-category {
-  color: $badge;
+  color: #384645;
 }
 
 /* Timeline */
@@ -167,7 +168,7 @@ a.badge-wrapper {
 
 /* Footer */
 .footer {
- background: $footerBackground url($wave-tile-pattern) left top repeat-x;
+ background: #0f262c url($wave-tile-pattern) left top repeat-x;
  padding: 6rem 3rem 3rem;
 
  & .links {
