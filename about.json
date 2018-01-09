@@ -4,16 +4,17 @@
   "license_url": "https://github.com/OffBase/gsn-tripeaks-forum-theme",
   "color_schemes": {
     "Tripeaks Light": {
-      "primary": "212121",
-      "secondary": "fafafa",
-      "tertiary": "ffa000",
-      "quaternary": "00796b",
-      "headerBackgroung": "00796b",
+      "primary": "50b69c",
+      "secondary": "ffffff",
+      "mainHeader": "https://solitairetripeaks.com/wp-content/uploads/2017/07/tripeaks-header-01.jpg",
+      "headerBackground": "50b69c",
       "headerPrimary": "ffffff",
-      "footerBackground": "#0f262c",
-      "highlight": "ffff8d",
+      "footerBackground": "0f262c",
+      "highlight": "c9fff1",
+      "linkColor": "39c5fc",
       "danger": "ff5722",
-      "success": "4caf50"
+      "success": "4caf50",
+      "badge": "384645"
     }
   }
 }
