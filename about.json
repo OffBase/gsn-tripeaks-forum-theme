@@ -2,6 +2,10 @@
   "name": "Tripeaks Forum",
   "about_url": "https://github.com/OffBase/gsn-tripeaks-forum-theme",
   "license_url": "https://github.com/OffBase/gsn-tripeaks-forum-theme",
+  "assets": {
+    "main-header": "assets/main-header.jpg",
+    "wave-tile-pattern": "assets/wave-tile-pattern.png"
+  },
   "color_schemes": {
     "Tripeaks Light": {
       "primary": "50b69c",
