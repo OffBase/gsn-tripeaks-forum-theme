@@ -1,0 +1,19 @@
+{
+  "name": "Tripeaks Forum",
+  "about_url": "https://github.com/OffBase/gsn-tripeaks-forum-theme",
+  "license_url": "https://github.com/OffBase/gsn-tripeaks-forum-theme",
+  "color_schemes": {
+    "Tripeaks Light": {
+      "primary": "212121",
+      "secondary": "fafafa",
+      "tertiary": "ffa000",
+      "quaternary": "00796b",
+      "headerBackgroung": "00796b",
+      "headerPrimary": "ffffff",
+      "footerBackground": "#0f262c",
+      "highlight": "ffff8d",
+      "danger": "ff5722",
+      "success": "4caf50"
+    }
+  }
+}
