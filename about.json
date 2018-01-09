@@ -8,11 +8,11 @@
   },
   "color_schemes": {
     "Tripeaks Light": {
-      "primary": "50b69c",
-       "secondary": "ffffff",
-       "header_background": "50b69c",
-       "header_primary": "ffffff",
-       "highlight": "c9fff1"
+      "primary": "000000",
+      "secondary": "ffffff",
+      "header_background": "50b69c",
+      "header_primary": "ffffff",
+      "highlight": "c9fff1"
     }
   }
 }
