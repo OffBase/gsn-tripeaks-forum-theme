@@ -76,6 +76,13 @@ a.badge-wrapper {
   background-size: cover;
 }
 
+@media (min-width: 1610px) {
+  .header-main {
+    background: url($main-header-tile) top left repeat-y, url($main-header) top center no-repeat;
+    background-size: contain;
+  }
+}
+
 .d-header {
   background-color: $teal;
   color: $secondary;
