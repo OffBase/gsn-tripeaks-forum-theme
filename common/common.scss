@@ -72,14 +72,14 @@ a.badge-wrapper {
 
 .header-main {
   display: block;
-  background: url($main-header) top center;
+  background: url($main-header-small) top center no-repeat;
+  background-color: #50b69c;
   background-size: cover;
 }
 
 @media (min-width: 1610px) {
   .header-main {
-    background: url($main-header) top center no-repeat, url($main-header-tile) top left repeat-x;
-    background-size: contain;
+    background: url($main-header) top center no-repeat;
   }
 }
 
