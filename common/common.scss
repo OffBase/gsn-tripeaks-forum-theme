@@ -80,6 +80,8 @@ a.badge-wrapper {
 @media (min-width: 1000px) {
   .header-main {
     background: url($main-header) top center no-repeat;
+    background-color: #50b69c;
+    background-size: cover;
   }
 }
 
