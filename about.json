@@ -4,7 +4,7 @@
   "license_url": "https://github.com/OffBase/gsn-tripeaks-forum-theme",
   "assets": {
     "main-header": "assets/main-header.jpg",
-    "main-header-tile": "assets/main-header-tile.jpg",
+    "main-header-small": "assets/main-header-small.jpg",
     "wave-tile-pattern": "assets/wave-tile-pattern.png"
   },
   "color_schemes": {
