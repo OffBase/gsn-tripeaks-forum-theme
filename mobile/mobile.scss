@@ -7,3 +7,12 @@
   color: #464646;
   font-size: 0.8em;
 }
+
+#topic-footer-buttons .combobox,
+#topic-footer-buttons .btn {
+  margin-top: 50px;
+}
+
+.topic-post nav.post-controls button.reply:after {
+  content: "Reply";
+}
