@@ -12,6 +12,9 @@
 #topic-footer-buttons .btn {
   margin-top: 75px;
 }
+.topic-post nav.post-controls button.reply {
+  margin-right: 1rem;
+}
 
 .topic-post nav.post-controls button.reply:after {
   content: "Reply";
