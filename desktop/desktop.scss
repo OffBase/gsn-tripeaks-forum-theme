@@ -5,6 +5,8 @@
 
 .top-nav {
   & .links {
+    margin: 0 auto;
+    max-width: 1110px;
 
     & li {
       margin-right: 1.2em;
@@ -14,7 +16,6 @@
 
   & li > a {
     font-size: 1.75rem;
-    padding: 0 0.8em 0.4rem;
   }
 }
 
