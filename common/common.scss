@@ -82,6 +82,7 @@ a.badge-wrapper {
 
   & .links {
     list-style-type: none;
+    margin: 0 0 0 0.5rem;
 
     & li {
       display: inline-block;
@@ -93,7 +94,6 @@ a.badge-wrapper {
   & li > a {
     color: #fff;
     font-family: 'Londrina Solid', Tahoma, Arial;
-    font-size: 1.125rem;
     text-transform: uppercase;
     letter-spacing: 2px;
     padding: 0 0.8em 0.4rem;

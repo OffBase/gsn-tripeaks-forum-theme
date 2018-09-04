@@ -3,8 +3,18 @@
 }
 
 .top-nav {
+  & .links {
+    margin: 0;
+
+    & li {
+      margin-right: 0;
+      padding: 0.4rem;
+    }
+  }
+
   & li > a {
     font-size: 1.125rem;
+    padding: 0;
   }
 }
 
