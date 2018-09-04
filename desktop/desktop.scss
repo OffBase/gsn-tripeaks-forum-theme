@@ -2,6 +2,14 @@
   height: 174px;
 }
 
+
+.top-nav {
+
+  & li > a {
+    font-size: 1.75rem;
+  }
+}
+
 // Prevent scrolling on sign in modal
 .fixed-modal .modal-body {
   max-height: none !important;

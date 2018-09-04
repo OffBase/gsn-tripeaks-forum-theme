@@ -80,10 +80,20 @@ a.badge-wrapper {
 .top-nav {
   background-color: #2F8C75;
 
+  & .links {
+    list-style-type: none;
+
+    & li {
+      display: inline-block;
+      padding: 0.4em 0.8rem;
+      margin-right: 1.2em;
+    }
+  }
+
   & li > a {
     color: #fff;
     font-family: 'Londrina Solid', Tahoma, Arial;
-    font-size: 1.75rem;
+    font-size: 1.125rem;
     text-transform: uppercase;
     letter-spacing: 2px;
     padding: 0 0.8em 0.4rem;

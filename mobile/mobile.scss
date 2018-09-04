@@ -2,6 +2,12 @@
   height: 85px;
 }
 
+.top-nav {
+  & li > a {
+    font-size: 1.125rem;
+  }
+}
+
 .topic-list-main-link a.title,
 .topic-list .main-link a.title {
   color: #464646;
