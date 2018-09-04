@@ -4,6 +4,13 @@
 
 
 .top-nav {
+  & .links {
+
+    & li {
+      margin-right: 1.2em;
+      padding: 0.4em 0.8rem;
+    }
+  }
 
   & li > a {
     font-size: 1.75rem;
