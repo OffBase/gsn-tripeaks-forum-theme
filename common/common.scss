@@ -77,6 +77,24 @@ a.badge-wrapper {
   background-size: cover;
 }
 
+.top-nav {
+  background-color: #2F8C75;
+
+  & li > a {
+    color: #fff;
+    font-family: 'Londrina Solid', Tahoma, Arial;
+    font-size: 1.75rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 0 0.8em 0.4rem;
+    border: 0;
+  }
+
+  & li.active > a {
+    color: #ffff99;
+  }
+}
+
 @media (min-width: 1000px) {
   .header-main {
     background: url($main-header) top center no-repeat;
